@@ -1,0 +1,11 @@
+[package]
+name = "qlock"
+version = "0.0.1"
+edition = "2024"
+description = "A synchronization primitive implementation that opt for performance. (WIP)"
+license = "Apache-2.0"
+authors = [
+    "Jay Lee <busyjaylee@gmail.com>"
+]
+
+[dependencies]
